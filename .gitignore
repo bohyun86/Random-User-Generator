@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Random User Generator/*
+!/Random User Generator/task/
+/Random User Generator/task/*
+!/Random User Generator/task/src
